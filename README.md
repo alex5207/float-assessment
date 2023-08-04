@@ -4,7 +4,7 @@ This is a simplified version of a problem that we have encountered and solved at
 **Situation**: A customer's 3rd party integration has broken. 
 It is no longer possible to see through Shopify what the end-customer is returning; only the amount they're returning for.
 
-**Problem**
+**Problem**: <br>
 To be able to deliver our analytical insights we need to know what items has been returned.
 
 **Data**
