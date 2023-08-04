@@ -21,7 +21,7 @@ The returned amount corresponds to some combination of the items that was sold o
 The problem is just: We don't know which.
 
 **What you should do** <br>
-Write up a solution that figures out what has been returned.
+Write up a solution that figures out what products has been returned for each order.
 Test and document your solution based on the sample dataset: `sales.csv` and `returns.json`
 
 Solution rules:
