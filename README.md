@@ -28,3 +28,4 @@ Solution rules:
 * The solution must be written in Python
 * The ideal solution is well-structured and well-documented
 * You can use any external libraries of your choice
+* Bonus points: Think about the limitations of your solution and how well it scales.
