@@ -7,7 +7,7 @@ It is no longer possible to see through Shopify what the end-customer is returni
 **Problem**: <br>
 To be able to deliver our analytical insights we need to know what items has been returned.
 
-**Data**
+**Data** <br>
 `sales.csv` is a sample dataset illustrating this broken integration.
 It contains the following columns:
 * `order_id` (int): The id of the order
@@ -20,7 +20,7 @@ It contains the following columns:
 The returned amount corresponds to some combination of the items that was sold on the order.
 The problem is just: We don't know which.
 
-**What you should do**
+**What you should do** <br>
 Write up a solution that figures out what has been returned.
 Test and document your solution based on the sample dataset: `sales.csv` and `returns.json`
 
